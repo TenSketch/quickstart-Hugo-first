@@ -1,11 +1,9 @@
 ---
-title: "My First gfbgfbgfbg kixfnfgnfnfnf Post"
-date: 2019-01-05T13:37:11+05:30
-draft: false
+title: first post
+date: 2019-01-05T08:07:11.000Z
 ---
-
 kjjgnghngnhgnh
 kjhjmhmgmhghg
 jjhfghfgfgf
 
-,kkj
+,kkj;lxckv;lcxvxcjvlxkjvlxkjvzxvxcvxcvxcvxv
